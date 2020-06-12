@@ -1,0 +1,6 @@
+MapReduce is a programming paradigm that enables massive scalability across hundreds or
+thousands of servers in a Hadoop cluster. The MapReduce concept is simple to understand
+for those who are familiar with clustered scale-out data processing solutions.
+For people new to this topic, it can be somewhat difficult to grasp, because it’s not typically
+something people have been exposed to previously. If you’re new to Hadoop’s MapReduce
+jobs, don’t worry: we’re going to describe it in a way that gets you up to speed quickly.

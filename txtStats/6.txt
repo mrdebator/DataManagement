@@ -1,0 +1,1 @@
+In an effort to more effectively monitor migrant activity and provide life-saving aid when needed, U.S. Customs and Border Protection’s (CBP) Data Science Division (DSD) and Enterprise Data Analytics Office recently collaborated with the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) to implement the Missing Migrants Program.

@@ -1,0 +1,5 @@
+Machine learning – creating algorithms which can “think” for themselves, allowing them to improve and “learn” through a process of statistica
+until an ideal solution to a proposed problem is found, is an area of analytics which is well suited to the Spark platform, thanks to its speed an
+data. This sort of technology lies at the heart of the latest advanced manufacturing systems used in industry which can predict when parts wi
+replacements, and will also lie at the heart of the driverless cars and ships of the near future. Spark includes its own machine learning librarie
+Hadoop systems must be interfaced with a third-party machine learning library, for example Apache Mahout.

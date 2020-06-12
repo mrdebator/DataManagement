@@ -1,0 +1,13 @@
+CERTIFICATION PROCESS
+Once you’ve completed PWK and practiced your skills in the labs, you’re ready to take the certification exam. OSCP is a foundational penetration testing certification, intended for those seeking a step up in their skills and career.
+
+The OSCP exam has a 24-hour time limit and consists of a hands-on penetration test in our isolated VPN network. You’ll receive the exam and connectivity instructions for an isolated network for which you have no prior knowledge or exposure. Points are awarded for each compromised host, based on their difficulty and level of access obtained.
+
+You must submit a comprehensive penetration test report as part of your exam. Reports should contain in-depth notes and screenshots detailing your findings. This exam is proctored.
+
+REAL-WORLD BENEFITS
+A passing exam grade will declare you an Offensive Security Certified Professional (OSCP). The OSCP certification is well-known, respected, and required for many top cybersecurity positions.
+
+Certified OSCPs are able to identify existing vulnerabilities and execute organized attacks in a controlled and focused manner. They can leverage or modify existing exploit code to their advantage, perform network pivoting and data exfiltration, and compromise systems due to poor configurations.
+
+Completing the 24-hour exam demonstrates persistence and determination. An OSCP has also shown they can think outside the box while managing both time and resources.

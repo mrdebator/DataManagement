@@ -1,0 +1,4 @@
+centrality is defined as the number of links incident upon a node (i.e., the number of ties that a node has). If the network is directed (meaning that ties have direction), then two separate measures of degree centrality are defined, namely, indegree and outdegree. Indegree is a count of the number of ties directed to the node (head endpoints) and outdegree is the number of ties that the node directs to others (tail endpoints). In such cases, the degree is the sum of indegree and outdegree.
+In online focus groups and in open-ended responses to a nationally representative
+online survey, many people expressed concerns about the safety and security of their
+personal data in light of numerous high-profile data breaches.
